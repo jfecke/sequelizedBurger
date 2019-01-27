@@ -1,0 +1,31 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.gify {
+  height: 100%;
+  width: 100%;
+  z-index: -100;
+}
+
+body {
+  background-image: url("../images/giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
